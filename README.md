@@ -27,7 +27,7 @@ Componente: Arduino UNO (ATmega328P microcontroller) 1x LED RGB 2x Butoane 5x Re
 
 
 
-Uploading Clip video WhatsApp 2024-11-05 la 09.56.27_ecc87270.mp4…
+https://youtube.com/shorts/xQdWgGtXUkc?si=5Lls-v7vn5EP7Lil
 
 
 
