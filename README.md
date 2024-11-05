@@ -20,4 +20,15 @@ Jocul se poate opri oricând cu butonul de start/stop.
 
 Componente: Arduino UNO (ATmega328P microcontroller) 1x LED RGB 2x Butoane 5x Rezistoare (3x 220/330 ohm, 2x 1000 ohm) Breadbord Fire
 
+
 ![image](https://github.com/user-attachments/assets/e557df45-dcd7-4656-b7b3-e2f3164d3942)
+
+![Imagine WhatsApp 2024-11-05 la 09 56 27_60b945fc](https://github.com/user-attachments/assets/c8f4d136-e857-4c9e-8fdb-ec2e6eb11bd2)
+
+
+
+Uploading Clip video WhatsApp 2024-11-05 la 09.56.27_ecc87270.mp4…
+
+
+
+
