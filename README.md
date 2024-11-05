@@ -19,3 +19,5 @@ Dupa 30 de secunde, runda se termină, iar în terminal se va afișa scorul: num
 Jocul se poate opri oricând cu butonul de start/stop.
 
 Componente: Arduino UNO (ATmega328P microcontroller) 1x LED RGB 2x Butoane 5x Rezistoare (3x 220/330 ohm, 2x 1000 ohm) Breadbord Fire
+
+![image](https://github.com/user-attachments/assets/e557df45-dcd7-4656-b7b3-e2f3164d3942)
